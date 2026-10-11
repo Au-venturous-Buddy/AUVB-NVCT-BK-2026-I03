@@ -1,10 +1,10 @@
 {
-  "name": "auvb-nvct-bk-2026-i02",
+  "name": "auvb-nvct-bk-2026-i03",
   "author": "Au-venturous Buddy <auventurous.buddy@gmail.com>",
   "main": "main.js",
   "private": true,
-  "description": "Au-venturous Buddy NeuroverCity: \"Hi, I'm Kali!\"",
-  "version": "2026.02",
+  "description": "Au-venturous Buddy NeuroverCity: The Twins' (and Kali's) Purpose",
+  "version": "2026.03",
   "license": "0BSD",
   "scripts": {
     "build": "gatsby build",

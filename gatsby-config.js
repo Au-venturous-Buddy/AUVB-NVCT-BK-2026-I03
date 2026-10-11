@@ -6,7 +6,7 @@
 
 module.exports = {
   siteMetadata: {
-    title: `Au-venturous Buddy NeuroverCity: "Hi, I'm Kali!"`,
+    title: `Au-venturous Buddy NeuroverCity: The Twins' (and Kali's) Purpose`,
     author: `Au-venturous Buddy`
   },
   plugins: [
@@ -26,8 +26,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Au-venturous Buddy NeuroverCity: "Hi, I'm Kali!"`,
-        short_name: `AUVB-NVCT-BK-2026-I02`,
+        name: `Au-venturous Buddy NeuroverCity: The Twins' (and Kali's) Purpose`,
+        short_name: `AUVB-NVCT-BK-2026-I03`,
         start_url: `/`,
         background_color: `#017BFF`,
         theme_color: `#017BFF`,
